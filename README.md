@@ -34,7 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## ✍️ Autores
 
 - Allyson Ryan
-- Felipe Gusmão
 - Jorge Luiz
 - Lucas Gabriel
 - Otávio Augusto
